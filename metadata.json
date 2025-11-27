@@ -1,0 +1,5 @@
+{
+  "name": "BRSMM Internal Manager",
+  "description": "Internal tool for managing SMM orders, services, and WhatsApp copies with BRSMM API integration.",
+  "requestFramePermissions": []
+}
